@@ -1,2 +1,2 @@
 # Navalmanack
-Navalmanack in you browser, Read anytime.
+Navalmanack in your browser, Read anytime.
